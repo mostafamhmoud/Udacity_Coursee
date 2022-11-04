@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\LENOVO\Desktop\FWD\project 1\Project1\Project1\std_header.h(11,38): warning C4142: 'uint64_t': benign redefinition of type
+C:\Users\LENOVO\Desktop\FWD\project 1\Project1\Project1\std_header.h(10): message : see declaration of 'uint64_t'
+  server.c
+C:\Users\LENOVO\Desktop\FWD\project 1\Project1\Project1\std_header.h(11,38): warning C4142: 'uint64_t': benign redefinition of type
+C:\Users\LENOVO\Desktop\FWD\project 1\Project1\Project1\std_header.h(10): message : see declaration of 'uint64_t'
+C:\Users\LENOVO\Desktop\FWD\project 1\Project1\Project1\server.c(139,102): warning C4047: '=': 'uint8_t' differs in levels of indirection from 'uint8_t *'
+  Generating Code...
+C:\Users\LENOVO\Desktop\FWD\project 1\Project1\Project1\server.c(162): warning C4715: 'saveTransaction': not all control paths return a value
+  Project1.vcxproj -> C:\Users\LENOVO\Desktop\FWD\project 1\Project1\x64\Debug\Project1.exe
